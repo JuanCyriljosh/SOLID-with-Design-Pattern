@@ -14,3 +14,4 @@ Make sure you have a TestProgram that will validate the proposed refactored code
 
 
 ## UML Class Diagram
+![Blank diagram (8)](https://github.com/user-attachments/assets/63e92046-eca4-4807-8652-5d44699c2335)
